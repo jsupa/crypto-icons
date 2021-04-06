@@ -1,5 +1,5 @@
 # Crypto icons colection
-<a href="https://buymeacoff.ee/rBuzC4v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y246Y0V)
 
 ### I keep updating 
 Icons from coinmarketcap
